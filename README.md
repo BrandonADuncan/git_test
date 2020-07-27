@@ -1,0 +1,1 @@
+Testing correct git setup and usage on new device
